@@ -1,0 +1,22 @@
+.download-btn{
+    color:white;
+    box-sizing: border-box;
+    font-size:xx-large;
+    padding-top: 50px;
+}
+
+.download-btn:hover{
+    color:hsl(48, 89%, 50%);
+}
+
+.name-box{
+    padding: 10px;
+    margin-left: 36px;
+    width: 70%;
+    margin-bottom: 36px;
+}
+
+.select-pdfsize{
+    padding: 10px;
+    width: 70%;
+}
